@@ -9,7 +9,7 @@ def two_sum(nums: list[int], target: int) -> list[int]:
     
     return [0, 1]
     
-    
+   
 
 def test():
     samples = [
@@ -20,6 +20,7 @@ def test():
     
     for (input, target, expected) in samples:
         result = two_sum(input, target)
+        print(f"{result}: {expected}")
         assert result == expected
         
 

@@ -5,3 +5,11 @@ version = 4
 [[package]]
 name = "_0001_two_sum"
 version = "0.1.0"
+
+[[package]]
+name = "_0002_add_two_numbers"
+version = "0.1.0"
+
+[[package]]
+name = "_0009_is_palindrome"
+version = "0.1.0"
